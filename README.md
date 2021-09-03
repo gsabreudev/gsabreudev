@@ -14,6 +14,6 @@ Hi! My nickname is Gab. I'm from **Brazil**. I'm a Tech Recruiter who has been l
 
 ## Work at 🤝
 
-<img align="left" alt="logo" width="100px" src="https://www.google.com/search?q=stefanini+logo+png&rlz=1C1CHBD_pt-PTBR948BR948&sxsrf=AOaemvK4qP43fsz29EtGHRfTzJWXUmKL9A:1630631676420&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiE69Ou0OHyAhUKrJUCHQPbAUsQ_AUoAXoECAEQAw&cshid=1630631926812543&biw=1242&bih=545#imgrc=tcopj3uuA0XlrM" />
+<img align="left" alt="logo" width="100px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.linkedin.com%2Fcompany%2Fstefanini&psig=AOvVaw1NA1PO99wcfg7Hr-a83DsR&ust=1630718591964000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKiGkpzT4fICFQAAAAAdAAAAABAD" />
 
 <br/>
