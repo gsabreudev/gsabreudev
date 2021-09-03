@@ -12,4 +12,8 @@ Hi! My nickname is Gab. I'm from **Brazil**. I'm a Tech Recruiter who has been l
 <img align="left" alt="CSS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Scala" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
+## Work at 🤝
+
+<img align="left" alt="logo" width="30px" src="https://drive.google.com/drive/u/1/folders/1YM1UA_vXmPfVGpHnbiFE7-ws9AFk_a5u" />
+
 <br/>
