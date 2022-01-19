@@ -1,4 +1,4 @@
-## hEllO wOrLd?! ✌
+## <> Hello World </> ✌
 
 Hi! My nickname is Gab. I'm from **Brazil**. I'm a Tech Recruiter who has been learning new technologies and developing my soft skills since forever!
 
