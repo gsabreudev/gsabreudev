@@ -34,7 +34,6 @@ Rumo ao infinito e além! 🚀
 ## Find me 🤗
 
  [Linkedin](https://www.linkedin.com/in/abreugabriela/) <br> 
- [WhatsApp](https://api.whatsapp.com/send?phone=5551997633298&text=Ol%C3%A1%20Gabriela%2C%20tudo%20bem%3F%20Vamos%20conversar%3F)
 
 ## My hard skills 👩‍💻
 
