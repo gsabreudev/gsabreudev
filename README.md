@@ -4,12 +4,6 @@
 
 Você já se perguntou qual é a sua missão na Terra? 🌎 A minha é simples: ajudar as pessoas a descobrirem o seu propósito e apoiá-las ao longo desse incrível caminho! 😍
 
-Minha jornada na área de Recursos Humanos começou em 2018, e desde então tenho buscado maneiras inovadoras de unir sonhos e propósitos por meio do recrutamento e seleção. Além disso, estou aqui para ajudar a promover a sua marca, seja ela profissional ou pessoal. 😊
-
-Chamo-me Gabriela, mas podem me chamar de Gab. Tenho 27 anos e sou do signo de Leão. Meu lema de vida é dar sempre o meu melhor em tudo o que faço. E você, qual é o seu lema?
-
-Sou casada há 5 anos com a Aline, uma esposa incrível, e mãe de quatro adoráveis gatinhos: Orihime, Himawari, Yoruichi e Mitsuki. Além da minha paixão pela psicologia, tenho um amor especial por criatividade, tecnologia, pesquisa científica, animes e músicas clássicas.
-
 Quer saber como puxar um bom papo comigo? Aqui vão algumas dicas:
 
 Se você curte séries, sou fã de Flash!
@@ -33,9 +27,9 @@ Rumo ao infinito e além! 🚀
 
 ## Find me 🤗
 
- [Linkedin](https://www.linkedin.com/in/abreugabriela/) <br> 
+Me segue no [Linkedin](https://www.linkedin.com/in/abreugabriela/) <br> 
 
-
+Acompanhe um pouco do meu trabalho em [Dicas de Uma RerutadorA](linkedin.com/company/dicas-de-uma-recrutadora) <br> 
  
 
 ## My hard skills 👩‍💻
