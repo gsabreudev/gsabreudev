@@ -29,7 +29,7 @@ Rumo ao infinito e além! 🚀
 
 Me segue no [Linkedin](https://www.linkedin.com/in/abreugabriela/) <br> 
 
-Acompanhe um pouco do meu trabalho em [Dicas de Uma RerutadorA](linkedin.com/company/dicas-de-uma-recrutadora) <br> 
+Acompanhe um pouco do meu trabalho em [Dicas de Uma RerutadorA]([linkedin.com](https://www.linkedin.com)/company/dicas-de-uma-recrutadora) <br> 
  
 
 ## My hard skills 👩‍💻
