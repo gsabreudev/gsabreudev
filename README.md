@@ -1,4 +1,3 @@
-
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/gsabreudev/efa4713bf6a8c3b38c076fef9e3f61be/raw/ebdd5b82290f40f9c1d4d6fac6e003b2960a58cd/githubcard.svg"/>
 <h1 align="left"> Hello, world! </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gsabreudev&color=orange" alt="Profile views" /> </p>
