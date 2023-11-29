@@ -1,6 +1,7 @@
-## <> Hello World </> ✌
 
-Hello world! 👋
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/gsabreudev/efa4713bf6a8c3b38c076fef9e3f61be/raw/ebdd5b82290f40f9c1d4d6fac6e003b2960a58cd/githubcard.svg"/>
+<h1 align="left"> Hello, world! </h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gsabreudev&color=orange" alt="Profile views" /> </p>
 
 Você já se perguntou qual é a sua missão na Terra? 🌎 A minha é simples: ajudar as pessoas a descobrirem o seu propósito e apoiá-las ao longo desse incrível caminho! 😍
 
@@ -34,6 +35,9 @@ Rumo ao infinito e além! 🚀
 ## Find me 🤗
 
  [Linkedin](https://www.linkedin.com/in/abreugabriela/) <br> 
+
+
+ 
 
 ## My hard skills 👩‍💻
 
