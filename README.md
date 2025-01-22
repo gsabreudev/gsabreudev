@@ -9,7 +9,7 @@ Quer saber como puxar um bom papo comigo? Aqui vão algumas dicas:
 Se você curte séries, sou fã de Flash!
 No mundo dos animes, meus favoritos são Naruto, One Piece e Demon Slayer.
 Quanto à música, você vai me encontrar ouvindo muito Ozzy Osbourne (Dreamer), Jake Bugg e Bon Jovi.
-Meu grande sonho é compartilhar todo o conhecimento que tenho na minha página "Dicas de Uma RecrutadorA". Fique à vontade para me seguir por lá, mesmo que eu arrisque um fracasso nessa empreitada feliz! 😄
+Meu grande sonho é compartilhar todo o conhecimento que tenho com quem está iniciando na área. 😄
 
 -Ei, Gab! Adoraria bater um papo contigo!
 
