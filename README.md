@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gsabreudev&color=orange" alt="Profile views" /> </p>
 
 <div id="badges">
-  <a href = "https://www.linkedin.com/in/caio-souza-freire-10b7632b8/">
+  <a href = "https://www.linkedin.com/in/abreugabriela/">
  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     <a/>
    <a href = "https://dqrtech.inhire.app/vagas">  
