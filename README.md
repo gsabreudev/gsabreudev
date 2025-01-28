@@ -2,6 +2,14 @@
 <h1 align="left"> Hello, world! </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gsabreudev&color=orange" alt="Profile views" /> </p>
 
+<div id="badges">
+  <a href = "https://www.linkedin.com/in/caio-souza-freire-10b7632b8/">
+ <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <a/>
+   <a href = "https://dqrtech.inhire.app/vagas">  
+ <img src="https://img.shields.io/badge/Vagas-black?style=for-the-badge&logo=Vagas&logoColor=white" alt="LinkedIn Badge"/>
+   </div>
+
 Você já se perguntou qual é a sua missão na Terra? 🌎 A minha é simples: ajudar as pessoas a descobrirem o seu propósito e apoiá-las ao longo desse incrível caminho! 😍
 
 Quer saber como puxar um bom papo comigo? Aqui vão algumas dicas:
