@@ -6,9 +6,6 @@
   <a href = "https://www.linkedin.com/in/abreugabriela/">
  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     <a/>
-   <a href = "https://dqrtech.inhire.app/vagas">  
- <img src="https://img.shields.io/badge/Vagas-black?style=for-the-badge&logo=Vagas&logoColor=white" alt="LinkedIn Badge"/>
-   </div>
 
 Você já se perguntou qual é a sua missão na Terra? 🌎 A minha é simples: ajudar as pessoas a descobrirem o seu propósito e apoiá-las ao longo desse incrível caminho! 😍
 
