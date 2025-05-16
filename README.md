@@ -18,7 +18,7 @@ Meu grande sonho é compartilhar todo o conhecimento que tenho com quem está in
 
 -Ei, Gab! Adoraria bater um papo contigo!
 
-E-mail profissional: gabriela.abreu@dqrtech.com.br
+E-mail profissional: contato@psicologagabrielaabreu.com.br
 E-mail pessoal: abreugabrielasilva@gmail.com
 
 Vamos conversar, trocar ideias CRIATIVAS e compartilhar nossas paixões por séries, animes, músicas e até mesmo sobre o tempo? 🤩 Ah, não esqueci dos emojis, afinal, eles tornam nossas mensagens mais humanas e divertidas, concordam? 😁
