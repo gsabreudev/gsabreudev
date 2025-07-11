@@ -1,10 +1,11 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/gsabreudev/efa4713bf6a8c3b38c076fef9e3f61be/raw/ebdd5b82290f40f9c1d4d6fac6e003b2960a58cd/githubcard.svg"/>
+<img align="right" height="490em" src="https://raw.githubusercontent.com/gist/gsabreudev/efa4713bf6a8c3b38c076fef9e3f61be/raw/ebdd5b82290f40f9c1d4d6fac6e003b2960a58cd/githubcard.svg"/>
 <h1 align="left"> Hello, world! </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gsabreudev&color=orange" alt="Profile views" /> </p>
 
 <div id="badges">
   <a href = "https://www.linkedin.com/in/abreugabriela/">
  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img align="left" alt="Scala" width="350px" src="https://badges.devskiller.com/badges/6bWgn1mTQ8GfWasFn0qKHX.png" />
     <a/>
 
 Você já se perguntou qual é a sua missão na Terra? 🌎 A minha é simples: ajudar as pessoas a descobrirem o seu propósito e apoiá-las ao longo desse incrível caminho! 😍
@@ -37,8 +38,9 @@ Me segue no [Linkedin](https://www.linkedin.com/in/abreugabriela/) <br>
 
 ## My hard skills 👩‍💻
 
-<img align="left" alt="CSS" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Scala" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="50" height="50"></a>
+<img align="left" alt="CSS" width="150px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Scala" width="150px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="Scala" width="150px" src="https://badges.devskiller.com/badges/6bWgn1mTQ8GfWasFn0qKHX.png" />
+<a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="150" height="150"></a>
 
 <br/>
