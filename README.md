@@ -18,9 +18,7 @@ Quanto à música, você vai me encontrar ouvindo muito Ozzy Osbourne (Dreamer),
 Meu grande sonho é compartilhar todo o conhecimento que tenho com quem está iniciando na área. 😄
 
 -Ei, Gab! Adoraria bater um papo contigo!
-
-E-mail profissional: contato@psicologagabrielaabreu.com.br
-E-mail pessoal: abreugabrielasilva@gmail.com
+E-mail: abreugabrielasilva@gmail.com
 
 Vamos conversar, trocar ideias CRIATIVAS e compartilhar nossas paixões por séries, animes, músicas e até mesmo sobre o tempo? 🤩 Ah, não esqueci dos emojis, afinal, eles tornam nossas mensagens mais humanas e divertidas, concordam? 😁
 
