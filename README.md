@@ -1,5 +1,7 @@
-<img align="right" height="490em" src="https://raw.githubusercontent.com/gist/gsabreudev/efa4713bf6a8c3b38c076fef9e3f61be/raw/ebdd5b82290f40f9c1d4d6fac6e003b2960a58cd/githubcard.svg"/>
-<h1 align="left"> Hello, world! </h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF5C00&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF5C00&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORLD,+MY+NAME+is+GABRIELA+ABREU;I'm+Tech+Recruiter+and;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gsabreudev&color=orange" alt="Profile views" /> </p>
 
 <div id="badges">
@@ -33,6 +35,10 @@ Rumo ao infinito e além! 🚀
 
 Me segue no [Linkedin](https://www.linkedin.com/in/abreugabriela/) <br> 
  
+<div align="center">  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gsabreudev&show_icons=true&count_private=true&hide_border=true&title_color=FF5C00&icon_color=ff5c00&text_color=c9d1d9&bg_color=0d1117" alt="Gabriela Abreu github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsabreudev&layout=compact&hide_border=true&title_color=FF5C00&text_color=FF5C00&bg_color=0d1117" />
+</div>
 
 ## My hard skills 👩‍💻
 
@@ -42,3 +48,4 @@ Me segue no [Linkedin](https://www.linkedin.com/in/abreugabriela/) <br>
 <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="150" height="150"></a>
 
 <br/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff5c00&height=120&section=footer"/>
