@@ -38,6 +38,11 @@ Me segue no [Linkedin](https://www.linkedin.com/in/abreugabriela/) <br>
 <div align="center">  
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gsabreudev&show_icons=true&count_private=true&hide_border=true&title_color=FF5C00&icon_color=ff5c00&text_color=c9d1d9&bg_color=0d1117" alt="Gabriela Abreu github stats"/> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsabreudev&layout=compact&hide_border=true&title_color=FF5C00&text_color=FF5C00&bg_color=0d1117" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gsabreudev&radius=16&theme=gruvbox&area=true&order=5&hide_title=false&hide_border=true" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
 </div>
 
 ## My hard skills 👩‍💻
