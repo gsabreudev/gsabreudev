@@ -17,6 +17,10 @@ E-mail: abreugabrielasilva@gmail.com.
 Vamos trocar ideias criativas sobre séries, animes, músicas e o tempo. Lembre-se: comece o dia com leveza e empatia.
 Obrigada pela sua paciência! Rumo ao infinito e além! 🚀
 
+
+
+
+
 ## Find me 🤗
 
 Me segue no [Linkedin](https://www.linkedin.com/in/abreugabriela/) <br> 
