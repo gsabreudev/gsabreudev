@@ -22,7 +22,7 @@ Meu grande sonho é compartilhar todo o conhecimento que tenho com quem está in
 -Ei, Gab! Adoraria bater um papo contigo!
 E-mail: abreugabrielasilva@gmail.com
 
-Vamos conversar, trocar ideias CRIATIVAS e compartilhar nossas paixões por séries, animes, músicas e até mesmo sobre o tempo? 🤩 Ah, não esqueci dos emojis, afinal, eles tornam nossas mensagens mais humanas e divertidas, concordam? 😁
+Vamos conversar, trocar ideias CRIATIVAS e compartilhar nossas paixões por séries, animes, músicas e até mesmo sobre o tempo?
 
 Lembre-se de que todos nós temos dias difíceis, então, comece o dia com leveza e empatia!
 
