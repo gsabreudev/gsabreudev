@@ -13,7 +13,6 @@
 Você já se perguntou qual é a sua missão na Terra? 🌎 A minha é simples: ajudar as pessoas a descobrirem o seu propósito e apoiá-las ao longo desse incrível caminho! 😍
 
 Quer saber como puxar um bom papo comigo? Aqui vão algumas dicas:
-
 Se você curte séries, sou fã de Flash!
 No mundo dos animes, meus favoritos são Naruto, One Piece e Demon Slayer.
 Quanto à música, você vai me encontrar ouvindo muito Ozzy Osbourne (Dreamer), Jake Bugg e Bon Jovi.
@@ -25,7 +24,6 @@ E-mail: abreugabrielasilva@gmail.com
 Vamos conversar, trocar ideias CRIATIVAS e compartilhar nossas paixões por séries, animes, músicas e até mesmo sobre o tempo?
 Lembre-se de que todos nós temos dias difíceis, então, comece o dia com leveza e empatia!
 Se você chegou até aqui, obrigada por dedicar alguns minutos do seu tempo. Paciência é uma virtude, não é mesmo? 🤷‍♀️
-
 Até breve, mundo!
 Rumo ao infinito e além! 🚀
 
