@@ -17,10 +17,8 @@ Se você curte séries, sou fã de Flash!
 No mundo dos animes, meus favoritos são Naruto, One Piece e Demon Slayer.
 Quanto à música, você vai me encontrar ouvindo muito Ozzy Osbourne (Dreamer), Jake Bugg e Bon Jovi.
 Meu grande sonho é compartilhar todo o conhecimento que tenho com quem está iniciando na área. 😄
-
 -Ei, Gab! Adoraria bater um papo contigo!
 E-mail: abreugabrielasilva@gmail.com
-
 Vamos conversar, trocar ideias CRIATIVAS e compartilhar nossas paixões por séries, animes, músicas e até mesmo sobre o tempo?
 Lembre-se de que todos nós temos dias difíceis, então, comece o dia com leveza e empatia!
 Se você chegou até aqui, obrigada por dedicar alguns minutos do seu tempo. Paciência é uma virtude, não é mesmo? 🤷‍♀️
