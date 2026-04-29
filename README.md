@@ -23,9 +23,7 @@ Meu grande sonho é compartilhar todo o conhecimento que tenho com quem está in
 E-mail: abreugabrielasilva@gmail.com
 
 Vamos conversar, trocar ideias CRIATIVAS e compartilhar nossas paixões por séries, animes, músicas e até mesmo sobre o tempo?
-
 Lembre-se de que todos nós temos dias difíceis, então, comece o dia com leveza e empatia!
-
 Se você chegou até aqui, obrigada por dedicar alguns minutos do seu tempo. Paciência é uma virtude, não é mesmo? 🤷‍♀️
 
 Até breve, mundo!
