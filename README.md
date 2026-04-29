@@ -9,21 +9,13 @@
  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     <img align="left" alt="Scala" width="350px" src="https://badges.devskiller.com/badges/6bWgn1mTQ8GfWasFn0qKHX.png" />
     <a/>
-
-Você já se perguntou qual é a sua missão na Terra? 🌎 A minha é simples: ajudar as pessoas a descobrirem o seu propósito e apoiá-las ao longo desse incrível caminho! 😍
-
-Quer saber como puxar um bom papo comigo? Aqui vão algumas dicas:
-Se você curte séries, sou fã de Flash!
-No mundo dos animes, meus favoritos são Naruto, One Piece e Demon Slayer.
-Quanto à música, você vai me encontrar ouvindo muito Ozzy Osbourne (Dreamer), Jake Bugg e Bon Jovi.
-Meu grande sonho é compartilhar todo o conhecimento que tenho com quem está iniciando na área. 😄
--Ei, Gab! Adoraria bater um papo contigo!
-E-mail: abreugabrielasilva@gmail.com
-Vamos conversar, trocar ideias CRIATIVAS e compartilhar nossas paixões por séries, animes, músicas e até mesmo sobre o tempo?
-Lembre-se de que todos nós temos dias difíceis, então, comece o dia com leveza e empatia!
-Se você chegou até aqui, obrigada por dedicar alguns minutos do seu tempo. Paciência é uma virtude, não é mesmo? 🤷‍♀️
-Até breve, mundo!
-Rumo ao infinito e além! 🚀
+      
+Minha missão é ajudar as pessoas a descobrirem seu propósito.
+Sou fã de Flash, animes como Naruto, One Piece e Demon Slayer, e ouço Ozzy Osbourne, Jake Bugg e Bon Jovi.
+Meu sonho é compartilhar conhecimento com iniciantes na área. Vamos conversar!
+E-mail: abreugabrielasilva@gmail.com.
+Vamos trocar ideias criativas sobre séries, animes, músicas e o tempo. Lembre-se: comece o dia com leveza e empatia.
+Obrigada pela sua paciência! Rumo ao infinito e além! 🚀
 
 ## Find me 🤗
 
