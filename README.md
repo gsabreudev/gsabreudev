@@ -18,12 +18,11 @@ Vamos trocar ideias criativas sobre séries, animes, músicas e o tempo. Lembre-
 Obrigada pela sua paciência! Rumo ao infinito e além! 🚀
 
 
-
-
-
 ## Find me 🤗
 
 Me segue no [Linkedin](https://www.linkedin.com/in/abreugabriela/) <br> 
+
+
  
 <div align="center">  
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gsabreudev&show_icons=true&count_private=true&hide_border=true&title_color=FF5C00&icon_color=ff5c00&text_color=c9d1d9&bg_color=0d1117" alt="Gabriela Abreu github stats"/> 
