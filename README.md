@@ -8,6 +8,13 @@
   Hello world, aqui quem fala é a Gabs
 </h1>
 
+<p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=gsabreudev&label=Visualizações&color=FF5C00&style=for-the-badge" 
+    alt="Contador de visitas"
+  />
+</p>
+
 <h3 align="center">
   Tech Recruiter • Talent Acquisition • Community Builder
 </h3>
