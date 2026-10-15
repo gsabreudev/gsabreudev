@@ -168,15 +168,6 @@ Tech Recruiter & Community Builder
 
 <br/>
 
-<!-- Troféus -->
-<div align="center">
-
-[![Trofeus](https://github-profile-trophy.vercel.app/?username=gsabreudev&theme=darkhub&no-frame=true&row=1&column=6&margin-w=10&title=Commits,Followers,Issues,PullRequest,Stars,Repositories)](https://github.com/gsabreudev)
-
-</div>
-
-<br/>
-
 <!-- Badges de métricas rápidas -->
 <div align="center">
 
