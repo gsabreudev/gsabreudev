@@ -188,15 +188,6 @@ Tech Recruiter & Community Builder
 
 <br/>
 
-<!-- Activity Graph -->
-<div align="center">
-
-[![gsabreudev's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gsabreudev&radius=16&theme=tokyo-night&area=true&hide_border=true&custom_title=Gabriela%20Silva%20de%20Abreu%27s%20Contribution%20Graph)](https://github.com/gsabreudev)
-
-</div>
-
----
-
 <!-- ===================================================== -->
 <!-- HARD SKILLS -->
 <!-- ===================================================== -->
