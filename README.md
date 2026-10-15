@@ -121,7 +121,7 @@ Tech Recruiter & Community Builder
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 &nbsp;
-<a href="https://psitechgabiabreu.base44.app/#inicio" target="_blank">
+<a href="https://gabsabreu.base44.app" target="_blank">
   <img src="https://img.shields.io/badge/🌐%20Meu%20Site-FF5C00?style=for-the-badge" alt="Meu Site"/>
 </a>
 
